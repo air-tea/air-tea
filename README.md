@@ -1,3 +1,3 @@
 ### Welcome to air-tea's profile! :ocean:
 
-- 🔭 I’m currently working on wireless communication, edge intellegnece and optimization
+- 🔭 I’m currently working on Wireless Communication, Edge Intellegnece and Optimization
