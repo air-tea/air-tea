@@ -1,4 +1,4 @@
 ### Welcome to air-tea's profile! :ocean:
 
 - 🔭 I’m currently working on Wireless Communication, Edge Intellegnece and Optimization
-- <img align="left" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
+![Snake animation](https://github.com/air-tea/air-tea/blob/output/github-contribution-grid-snake.svg)
